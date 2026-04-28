@@ -1,6 +1,6 @@
 # Práctica de Encapsulamiento
 
-Alumno: Diego Vivanco
+Alumno: Diego Marcelo Vivanco Malafay
 
 Este programa demuestra el uso de encapsulamiento en Python mediante clases y atributos privados.
 
